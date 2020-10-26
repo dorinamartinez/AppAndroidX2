@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Palabras BD</string>
+    <string name="action_settings">Ajustes</string>
+    <string name="hint_word">Escribir...</string>
+    <string name="button_save">Guardar</string>
+    <string name="empty_not_saved">No se puede guardar, porque estavacio</string>
+    <string name="add_word">Agregar palabra</string>
+</resources>
